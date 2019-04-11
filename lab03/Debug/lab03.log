@@ -1,0 +1,5 @@
+﻿  lab03_wietrzynska.c
+c:\work\uksw_projects\project2\lab03\lab03_wietrzynska.c(23): error C2084: function 'int main()' already has a body
+  c:\work\uksw_projects\project2\lab03\lab03_wietrzynska.c(6): note: see previous definition of 'main'
+c:\work\uksw_projects\project2\lab03\lab03_wietrzynska.c(26): warning C4477: 'scanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'double *'
+  c:\work\uksw_projects\project2\lab03\lab03_wietrzynska.c(26): note: consider using '%lf' in the format string

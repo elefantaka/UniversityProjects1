@@ -1,0 +1,7 @@
+﻿  lab09.wietrzynska.c
+c:\work\uksw_projects\project2\lab09\lab09.wietrzynska.c(72): error C2084: function 'int main()' already has a body
+  c:\work\uksw_projects\project2\lab09\lab09.wietrzynska.c(6): note: see previous definition of 'main'
+c:\work\uksw_projects\project2\lab09\lab09.wietrzynska.c(127): error C2084: function 'void info()' already has a body
+  c:\work\uksw_projects\project2\lab09\lab09.wietrzynska.c(99): note: see previous definition of 'info'
+c:\work\uksw_projects\project2\lab09\lab09.wietrzynska.c(175): warning C4005: 'ILE': macro redefinition
+  c:\work\uksw_projects\project2\lab09\lab09.wietrzynska.c(69): note: see previous definition of 'ILE'

@@ -1,0 +1,16 @@
+﻿  lab05_wietrzynska.c
+c:\work\uksw_projects\project2\lab05\lab05_wietrzynska.c(7): error C2001: newline in constant
+c:\work\uksw_projects\project2\lab05\lab05_wietrzynska.c(8): error C2146: syntax error: missing ')' before identifier 'printf'
+c:\work\uksw_projects\project2\lab05\lab05_wietrzynska.c(12): warning C4013: 'abs' undefined; assuming extern returning int
+c:\work\uksw_projects\project2\lab05\lab05_wietrzynska.c(11): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\work\uksw_projects\project2\lab05\lab05_wietrzynska.c(28): error C2084: function 'int main()' already has a body
+  c:\work\uksw_projects\project2\lab05\lab05_wietrzynska.c(3): note: see previous definition of 'main'
+c:\work\uksw_projects\project2\lab05\lab05_wietrzynska.c(32): error C2001: newline in constant
+c:\work\uksw_projects\project2\lab05\lab05_wietrzynska.c(33): error C2146: syntax error: missing ')' before identifier 'printf'
+c:\work\uksw_projects\project2\lab05\lab05_wietrzynska.c(33): error C2001: newline in constant
+c:\work\uksw_projects\project2\lab05\lab05_wietrzynska.c(30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\work\uksw_projects\project2\lab05\lab05_wietrzynska.c(199): warning C4552: '*': result of expression not used
+c:\work\uksw_projects\project2\lab05\lab05_wietrzynska.c(476): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\work\uksw_projects\project2\lab05\lab05_wietrzynska.c(476): note: placeholders and their parameters expect 2 variadic arguments, but 0 were provided
+  c:\work\uksw_projects\project2\lab05\lab05_wietrzynska.c(476): note: the missing variadic argument 1 is required by format string '%lf'

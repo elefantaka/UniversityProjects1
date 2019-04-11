@@ -1,0 +1,5 @@
+﻿  lab01_wietrzynska.c
+c:\work\uksw_projects\project1\project1\lab01_wietrzynska.c(12): error C2084: function 'int main()' already has a body
+  c:\work\uksw_projects\project1\project1\lab01_wietrzynska.c(2): note: see previous definition of 'main'
+c:\work\uksw_projects\project1\project1\lab01_wietrzynska.c(105): warning C4477: 'printf' : format string '%14g' requires an argument of type 'double', but variadic argument 1 has type '__int64'
+c:\work\uksw_projects\project1\project1\lab01_wietrzynska.c(106): warning C4477: 'printf' : format string '%14g' requires an argument of type 'double', but variadic argument 1 has type '__int64'

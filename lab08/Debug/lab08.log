@@ -1,0 +1,7 @@
+﻿  lab08_wietrzynska.c
+c:\work\uksw_projects\project2\lab08\lab08_wietrzynska.c(17): error C2084: function 'int main()' already has a body
+  c:\work\uksw_projects\project2\lab08\lab08_wietrzynska.c(4): note: see previous definition of 'main'
+c:\work\uksw_projects\project2\lab08\lab08_wietrzynska.c(242): warning C4047: '!=': 'int (__cdecl *)(void)' differs in levels of indirection from 'int'
+c:\work\uksw_projects\project2\lab08\lab08_wietrzynska.c(393): warning C4047: '!=': 'int (__cdecl *)(void)' differs in levels of indirection from 'int'
+c:\work\uksw_projects\project2\lab08\lab08_wietrzynska.c(436): warning C4047: '!=': 'int (__cdecl *)(void)' differs in levels of indirection from 'int'
+c:\work\uksw_projects\project2\lab08\lab08_wietrzynska.c(446): warning C4047: '!=': 'int (__cdecl *)(void)' differs in levels of indirection from 'int'

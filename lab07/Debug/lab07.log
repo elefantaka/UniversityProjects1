@@ -1,0 +1,5 @@
+﻿  lab07_wietrzynska.c
+c:\work\uksw_projects\project2\lab07\lab07_wietrzynska.c(29): error C2084: function 'int main()' already has a body
+  c:\work\uksw_projects\project2\lab07\lab07_wietrzynska.c(8): note: see previous definition of 'main'
+c:\work\uksw_projects\project2\lab07\lab07_wietrzynska.c(53): warning C4005: 'ILE': macro redefinition
+  c:\work\uksw_projects\project2\lab07\lab07_wietrzynska.c(26): note: see previous definition of 'ILE'

@@ -1,0 +1,4 @@
+﻿  egzaminy.c
+c:\work\uksw_projects\project2\egzaminy\egzaminy.c(14): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\work\uksw_projects\project2\egzaminy\egzaminy.c(46): warning C4101: 'trafienia': unreferenced local variable
+  egzaminy.vcxproj -> C:\Work\UKSW_PROJECTS\Project2\Debug\egzaminy.exe

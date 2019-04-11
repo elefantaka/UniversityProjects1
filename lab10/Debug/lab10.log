@@ -1,0 +1,15 @@
+﻿  lab10.wietrzynska.c
+c:\work\uksw_projects\project2\lab10\lab10.wietrzynska.c(71): error C2084: function 'int main()' already has a body
+  c:\work\uksw_projects\project2\lab10\lab10.wietrzynska.c(7): note: see previous definition of 'main'
+c:\work\uksw_projects\project2\lab10\lab10.wietrzynska.c(119): error C2084: function 'void info()' already has a body
+  c:\work\uksw_projects\project2\lab10\lab10.wietrzynska.c(36): note: see previous definition of 'info'
+c:\work\uksw_projects\project2\lab10\lab10.wietrzynska.c(124): error C2084: function 'int wczytajNaturalna()' already has a body
+  c:\work\uksw_projects\project2\lab10\lab10.wietrzynska.c(41): note: see previous definition of 'wczytajNaturalna'
+c:\work\uksw_projects\project2\lab10\lab10.wietrzynska.c(139): error C2084: function 'void wypiszLinie(int)' already has a body
+  c:\work\uksw_projects\project2\lab10\lab10.wietrzynska.c(56): note: see previous definition of 'wypiszLinie'
+c:\work\uksw_projects\project2\lab10\lab10.wietrzynska.c(156): error C2084: function 'void koniec()' already has a body
+  c:\work\uksw_projects\project2\lab10\lab10.wietrzynska.c(65): note: see previous definition of 'koniec'
+c:\work\uksw_projects\project2\lab10\lab10.wietrzynska.c(237): error C2084: function 'void wypiszKwadrat(int)' already has a body
+  c:\work\uksw_projects\project2\lab10\lab10.wietrzynska.c(147): note: see previous definition of 'wypiszKwadrat'
+c:\work\uksw_projects\project2\lab10\lab10.wietrzynska.c(540): warning C4005: 'ILE': macro redefinition
+  c:\work\uksw_projects\project2\lab10\lab10.wietrzynska.c(449): note: see previous definition of 'ILE'

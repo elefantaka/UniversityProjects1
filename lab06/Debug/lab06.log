@@ -1,0 +1,6 @@
+﻿  lab06_wietrzynska.c
+c:\work\uksw_projects\project2\lab06\lab06_wietrzynska.c(43): error C2084: function 'int main()' already has a body
+  c:\work\uksw_projects\project2\lab06\lab06_wietrzynska.c(3): note: see previous definition of 'main'
+c:\work\uksw_projects\project2\lab06\lab06_wietrzynska.c(480): error C2059: syntax error: 'do'
+c:\work\uksw_projects\project2\lab06\lab06_wietrzynska.c(481): error C2059: syntax error: 'bad suffix on number'
+c:\work\uksw_projects\project2\lab06\lab06_wietrzynska.c(482): error C2059: syntax error: 'bad suffix on number'
